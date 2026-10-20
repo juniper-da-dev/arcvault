@@ -1,1 +1,4 @@
+cryptography
+pymongo
+python-dotenv
 sqlcipher3-wheels

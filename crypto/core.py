@@ -1,5 +1,4 @@
 from pathlib import Path
-import click
 
 from cryptography.hazmat.primitives import hashes, serialization
 from cryptography.hazmat.primitives.asymmetric import rsa, padding
